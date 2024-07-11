@@ -1,0 +1,6 @@
+Print 6 divided by 2
+How can you print the result of 6 divided by 2?
+
+Correct Answer:
+print(6 / 2)
+The "/" operator is used to perform Division.

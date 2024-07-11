@@ -1,0 +1,9 @@
+Guess the Output
+Guess the output of following code
+sequence <- 1:4
+print(sequence)
+
+Correct Answer:
+[1] 1 2 3 4
+Numbers from 1 to 4 will get stored in variable named sequence.
+Such a data type that stores a collection of numbers is typically referred to as a "vector."

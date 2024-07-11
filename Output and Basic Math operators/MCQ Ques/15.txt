@@ -1,0 +1,11 @@
+Guess the Output
+What will the following code output?
+
+part1 <- "codechef is"
+part2 <- "awesome"
+paste(part1, part2)
+
+Correct Answer:
+[1] "codechef is awesome"
+paste is used to concatenate/join two or more elements.
+It prints in similar fashion to print function.

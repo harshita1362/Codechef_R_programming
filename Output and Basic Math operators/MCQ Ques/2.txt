@@ -1,0 +1,6 @@
+How would you print the below text?
+Coding, Chef!
+
+Correct Answer:
+"Coding, Chef!"
+Text should be enclosed in double quotes to print.

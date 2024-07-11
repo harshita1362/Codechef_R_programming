@@ -1,0 +1,6 @@
+Identify Correct Syntax
+What is the correct syntax for printing the number 5?
+
+Correct Answer:
+print(5)
+The correct syntax for printing in R is print(5) or cat(5) or 5

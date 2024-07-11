@@ -1,0 +1,7 @@
+Role of Arrow
+What is the role of <- in the below code?
+x <- 10
+
+Correct Answer:
+Assignment operator
+<- is the preferred assignment operator in r language. = can also be used.

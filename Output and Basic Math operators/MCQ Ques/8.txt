@@ -1,0 +1,6 @@
+Identify Runtime Error
+Which of the following will give a Runtime Error
+
+Correct Answer:
+print('9'*3)
+Binary operator '*' expects numeric argument

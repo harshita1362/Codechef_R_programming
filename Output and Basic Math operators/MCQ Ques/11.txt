@@ -1,0 +1,7 @@
+Guess the Output
+What does the following code achieve?
+cat(5,6,7,sep="\n")
+
+Correct Answer:
+Prints three numbers on separate lines
+sep is used to provide separator between three numbers. So in this case all three numbers will get printed in different lines.

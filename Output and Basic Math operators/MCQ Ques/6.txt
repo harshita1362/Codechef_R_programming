@@ -1,0 +1,6 @@
+Print String num
+How would you print the string stored in variable named num?
+
+Correct Answer:
+print(num)
+To print the string variable named num, you directly use print("variable_name") ,  without quotes.

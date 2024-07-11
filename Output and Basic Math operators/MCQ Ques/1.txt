@@ -1,0 +1,5 @@
+What does the following code snippet do?
+11 + 31
+
+Correct Answer:
+Adds two numbers and prints the result

@@ -1,0 +1,9 @@
+Guess the Output
+What does the following code print?
+print("Code")
+cat("chef")
+
+Correct Answer:
+[1] "Code"
+chef
+print statement will print the line number and "Code" i.e. [1] "Code" and then in the next line it will print Chef.

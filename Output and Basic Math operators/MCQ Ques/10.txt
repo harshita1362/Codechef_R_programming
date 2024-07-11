@@ -1,0 +1,7 @@
+Print 5 5
+How do you print "5 5" ( without quotes ) ?
+
+Correct Answer:
+cat(5,5)
+cat has " " as by default separator.
+Print function prints line number as well.
