@@ -1,0 +1,9 @@
+Identify Incorrect syntax
+Identify the incorrect syntax for initializing a boolean variable.
+
+Correct Answer:
+x <- as.logical("False")
+as.<dataType>( Value ) typecasts the given value in dataType form.
+Some special character strings [ "TRUE","T","true" ] and [ "FALSE","F","false" ] are evaluated to TRUE and FALSE respectively in R.
+TRUE or positve integer will be evaluated to TRUE.
+NOTE : Negative integers are also evaluated to TRUE. 

@@ -1,0 +1,12 @@
+Guess the Output
+Guess the output of following code
+x <- 2147483647L
+y <- 2147483648L
+cat(class(x),class(y),sep="\n")
+Note : Largest integer that can be stored is 2^32 - 1 = 2147483647
+
+Correct Answer:
+integer
+numeric
+Largest integer that can be stored in integer type is 2^32 - 1, 
+so any number greater than that will be automatically typecasted into numeric type. 

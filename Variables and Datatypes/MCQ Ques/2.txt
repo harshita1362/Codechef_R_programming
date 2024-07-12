@@ -1,0 +1,7 @@
+Identify incorrect syntax
+Identify the incorrect syntax among given options.
+
+Correct Answer:
+d <- true
+In R logical constants like TRUE and FALSE are case-sensitive.
+So, d <- TRUE ( all capital characters ) will be syntactically correct.

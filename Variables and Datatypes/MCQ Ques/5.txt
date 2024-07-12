@@ -1,0 +1,17 @@
+Guess the Output
+What is the output of following code ?
+x <- 1L 
+y <- 2.6  
+z <- 2 + 3i
+class(x)
+class(y)
+class(z)
+
+Note : Class function returns the dataType of that variable.
+Correct Answer:
+[1] "integer"
+[1] "numeric"
+[1] "complex"
+R has 3 number types namely integer, numeric and complex.
+integers are numbers without decimal ( created by using a letter 'L' after the integer value ).
+numerics are any number with or without a decimal.

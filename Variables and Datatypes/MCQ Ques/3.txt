@@ -1,0 +1,10 @@
+Guess the Output
+What is the output of the following code?
+x <- 3 - 2i
+y <- 4 + 3i
+cat(x+y);
+
+Correct Answer:
+7+1i
+We can represent a complex number in R as a+bi, where a and b are real numbers, and 
+subsequently perform mathematical operations on them.

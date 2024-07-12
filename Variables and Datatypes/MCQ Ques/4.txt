@@ -1,0 +1,7 @@
+Identify Incorrect Syntax
+Identify the incorrect syntax from the below options.
+
+Correct Answer:
+None of the above.
+Explanation:
+In the form a+bi, a and b are real numbers so first three options are syntactically correct.

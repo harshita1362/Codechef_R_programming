@@ -1,0 +1,8 @@
+Guess the Output
+What does the following code represent?
+x <- 20
+print(x);
+
+Correct Answer:
+Storing the value 20 in x and then printing it
+The code x <- 20; initializes the variable x with the value 20 and then the print function prints its value.

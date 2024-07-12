@@ -1,0 +1,8 @@
+Boolean in R
+Guess the Output of following code
+x <- 10 == 9 
+cat(x)
+
+Correct Answer:
+FALSE
+we can evaluate any expression in R, and receive a response of either "TRUE" or "FALSE".
